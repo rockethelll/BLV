@@ -1,4 +1,4 @@
-#Préparation de la BLV MGN-12
+# Préparation de la BLV MGN-12
 
 ## To Do List des pièces restantes à imprimer
 
@@ -9,4 +9,7 @@
 - [ ] revoir la disposition du rail sur l'axe X
 - [ ] commencer à préparer klipper sur AM8
 - [ ] prévoir emplacement des leds pour éclairage tête et portique
-- [ ] 
+- [x] _test validé_
+
+
+
