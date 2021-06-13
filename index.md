@@ -10,6 +10,7 @@
 
 - [ ] concevoir support écran TFT
 - [ ] support ventilateur + embout de refroidissement
+- [ ] Prévoir un ventilateur pour le moteur axe Z
 
 
 ## Partie montage
