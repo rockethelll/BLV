@@ -33,7 +33,7 @@
 - [ ] découper le PVC de face pour mettre en place la nouvelle interface avec les interrupteurs
 - [ ] modification de la mise en marche de la pompe à eau
 - [ ] installation de l'ampèremètre
-- [ ] découper la cale de réglage des hauteurs
+- [ ] découper la cale de réglage des hauteurs de découpe
 - [ ] découper les pièces pour supporter les ventilos sur le radiateur
 - [ ] intégrer un ventilo pour les alims
 - [ ] découper les pièces pour la thermoplieuse
